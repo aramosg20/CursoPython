@@ -3,7 +3,7 @@ def funcionOutlook():
 
 
 def funcionGmail():
-    pass
+    print("Esta es la línea que le toca al usuario de gmail")
 
 
 def run():
